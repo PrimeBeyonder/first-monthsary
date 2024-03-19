@@ -10,7 +10,7 @@
     --button-color: rgba(226, 52, 203, 0.625);
     --button-color-dark: rgb(202, 18, 202);
     --text-color: hsl(var(--hue), var(--sat), 46%);
-    --body-color: rgb(255, 196, 206);
+    --body-color: rgb(245, 132, 151);
     --container-color: #fff;
     --botton-text-color: rgb(21, 21, 21);
 
@@ -50,7 +50,7 @@
 }
 
 body {
-    --body-color: rgb(255, 196, 206);
+    --body-color: rgba(243, 126, 145, 0.873);
     background-color: var(--body-color);
     color: var(--text-color);
 }
