@@ -4,7 +4,7 @@ import "../Css/Header.css";
 
 const Header = () => {
     return (
-        <header className='header'>
+        <header className='header' id='header'>
             <nav className='nav container'>
                 <a href="index.html" className='nav__logo'>
                     first monthsary
