@@ -1,0 +1,9 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid #00000049;
+}
+
+.footer__title {
+    margin-top: 20px;
+}
