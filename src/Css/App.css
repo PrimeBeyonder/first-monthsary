@@ -104,6 +104,8 @@ ul {
 }
 
 a {
+    color: var(--container-color);
+    text-transform: uppercase;
     text-decoration: none;
 }
 
